@@ -24,7 +24,6 @@ blitz install nahue/blitz-email
 
 👤 **Nahuel Chaves and Alexandru Stratulat**
 
-* Website: www.nahuelchaves.xyz
 * Twitter: [@nchaves1986](https://twitter.com/nchaves1986) and [@sandulat](https://twitter.com/sandulat)
 * Github: [@nahue](https://github.com/nahue) and [@sandulat](https://github.com/sandulat)
 
